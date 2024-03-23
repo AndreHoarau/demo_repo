@@ -18,7 +18,15 @@ why this project is useful
 
 ## Get started
 
+I used [openincolab](https://openincolab.com/) to generate the following clickable link.
+It opens the `fib.ipynb` notebook in [Google Colab](https://colab.research.google.com/)
 How users can get started with the project...
+
+
+<a target="_blank" href="https://colab.research.google.com/github/AndreHoarau/demo_repo/blob/main/fib.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 ## Get Help
 
